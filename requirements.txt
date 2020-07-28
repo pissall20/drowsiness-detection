@@ -1,0 +1,7 @@
+pyobjc
+imutils
+playsound
+opencv-python
+numpy 
+scipy
+dlib
